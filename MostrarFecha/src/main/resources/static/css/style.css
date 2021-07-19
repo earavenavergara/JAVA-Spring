@@ -1,0 +1,14 @@
+#date {
+	color: blue;
+	margin-top:400px;
+	font-size:25px;
+	text-align:center;
+	font-family: monospace;
+}
+#time {
+	color: green;
+	margin-top:400px;
+	font-size:25px;
+	text-align:center;
+	font-family: monospace;
+}

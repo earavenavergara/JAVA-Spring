@@ -1,0 +1,16 @@
+package com.codingdojo.language.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.codingdojo.language.services.LanguageService;
+@RestController
+public class LanguageApi {
+
+	private final LanguageService languageService;
+
+	public LanguageApi(LanguageService languageService) {
+		this.languageService = languageService;
+	}
+	
+
+}

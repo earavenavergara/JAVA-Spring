@@ -1,0 +1,19 @@
+package com.codingdojo.language.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.codingdojo.language.services.LanguageService;
+
+@Controller
+public class LanguageController {
+	private final LanguageService languageService;
+
+	public LanguageController(LanguageService languageService) {
+		this.languageService = languageService;
+	}
+	@RequestMapping("languages/")
+	public String index() {
+		return null;
+	}
+}

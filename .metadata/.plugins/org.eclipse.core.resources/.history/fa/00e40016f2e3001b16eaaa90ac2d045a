@@ -1,0 +1,19 @@
+package com.codingdojo.relationships.controllers;
+
+import org.springframework.stereotype.Controller;
+
+import com.codingdojo.relationships.services.PersonService;
+
+@Controller
+public class PersonController {
+	private final PersonService personService;
+
+	public PersonController(PersonService personService) {
+		this.personService = personService;
+	}
+
+	public String index() {
+		return "/RS/index.jsp";
+	}
+
+}
