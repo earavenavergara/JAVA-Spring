@@ -1,5 +1,0 @@
-package com.codingdojo.relationships.repositories;
-
-public interface RsRepository {
-
-}

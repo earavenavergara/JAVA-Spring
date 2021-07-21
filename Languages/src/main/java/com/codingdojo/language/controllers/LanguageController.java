@@ -64,7 +64,7 @@ public class LanguageController {
 		}
 	}
 
-	@RequestMapping(value = "/languages/{id}", method = RequestMethod.DELETE)
+	@RequestMapping("/languages/{id}/delete")
 	public String destroy(@PathVariable("id") Long id) {
 		languageService.deleteLanguage(id);
 		return "redirect:/languages";

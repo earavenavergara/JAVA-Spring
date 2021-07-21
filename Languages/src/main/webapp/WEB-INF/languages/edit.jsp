@@ -29,6 +29,8 @@
 		</p>
     <input type="submit" value="Submit"/>
 </form:form>
+<br>
+<a href="/languages/${language.id}/delete">Delete</a>
 <a href="/languages">Dashboard</a>
 </body>
 </html>

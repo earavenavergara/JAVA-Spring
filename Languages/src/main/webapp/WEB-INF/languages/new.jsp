@@ -17,7 +17,7 @@
 					<th>Name</th>
 					<th>Creator</th>
 					<th>Version</th>
-					<th>action</th>
+					<th>Action</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -27,7 +27,7 @@
 									value="${lang.name}" /></a></td>
 						<td><c:out value="${lang.creator}" /></td>
 						<td><c:out value="${lang.currentVersion}" /></td>
-						<td><a href="/languages/${lang.id}/edit">edit</a> </td>
+						<td><a href="/languages/${lang.id}/edit">Edit</a> <a href="/languages/${lang.id}/delete">Delete</a></td>
 					</tr>
 				</c:forEach>
 			</tbody>

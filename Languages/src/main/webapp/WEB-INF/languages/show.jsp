@@ -17,8 +17,9 @@
 	<p>
 		<c:out value="${language.currentVersion}" />
 	</p>
-	
+
 	<a href="/languages/${language.id}/edit">Edit</a>
+	<a href="/languages/${language.id}/delete">Delete</a>
 	<a href="/languages">Dashboard</a>
 </body>
 </html>

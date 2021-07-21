@@ -1,8 +1,0 @@
-package com.codingdojo.language.controllers;
-
-import org.springframework.stereotype.Controller;
-
-@Controller
-public class LanguageController {
-
-}
