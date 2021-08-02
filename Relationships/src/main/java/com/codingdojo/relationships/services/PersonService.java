@@ -16,20 +16,22 @@ public class PersonService {
 		this.personRepository = personRepository;
 	}
 
-	public Person createPerson(Person person) {
-		return personRepository.save(person);
+	public void createPerson(Person p) {
+		personRepository.save(p);
 	}
 
-	public List<Person> allPerson() {
-		return (List<Person>) personRepository.findAll();
+	public List<Person> allPersons() {
+		List<Person> optListPerson = personRepository.findAll();
+		return optListPerson;
 	}
 
-	public Person findPerson(long n) {
-		Optional<Person> optionalPerson = personRepository.findById(n);
-		if (optionalPerson.isPresent()) {
-			return optionalPerson.get();
+	public Person findPersonById(Long id) {
+		Optional<Person> optPerson = personRepository.findById(id);
+		if (optPerson.isPresent()) {
+			return optPerson.get();
 		} else {
 			return null;
 		}
 	}
+
 }
