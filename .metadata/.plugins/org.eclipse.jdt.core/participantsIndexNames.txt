@@ -3,6 +3,8 @@ C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3416820924.ind
 \Relationships2\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3392771214.index
 \DojoOverflow\src\main\java
+C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1257504155.index
+\RepasoExamen\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\728455405.index
 \Relationships\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3742959743.index
@@ -13,6 +15,8 @@ C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\506421352.inde
 \NinjaGold\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1538958045.index
 \Encuesta\src\main\java
+C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3369394164.index
+\Eventos\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2009293439.index
 \DojosAndNinjas\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\329561226.index
@@ -33,10 +37,10 @@ C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1414036346.ind
 \listaEstudiantes1\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\925236543.index
 \Lookify\src\main\java
-C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3105813471.index
-\MostrarFecha\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2161543549.index
 \Relationships\src\main\java
+C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3105813471.index
+\MostrarFecha\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2556663290.index
 \Relationships\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3572740031.index
@@ -47,7 +51,11 @@ C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1573166816.ind
 \MVC\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3890780861.index
 \Authentication\src\main\java
+C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2652701880.index
+\WaterBnB\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1612768920.index
 \Contador\src\main\java
 C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\372772421.index
 \ElCodigo\src\main\java
+C:\wsSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1293119307.index
+\PanelAdmin\src\main\java
